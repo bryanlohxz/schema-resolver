@@ -1,4 +1,4 @@
-# Optical Schema Resolving Tool
+# Schema Resolving Tool
 
 I am honestly so annoyed at the constant need to resolve directus schemas.
 
